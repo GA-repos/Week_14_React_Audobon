@@ -1,3 +1,4 @@
+Flex-323 - July 14
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # Audubon Society Website
@@ -11,6 +12,8 @@ Practice with useState, useEffect and React Router to build a website for the Au
 - React Router
 
 ## Instructions
+
+This homework is due one week from today up through **step 7**. We suggest completing the whole lab though!
 
 1. Fork and clone this repository.
 1. Change into the new directory with `cd react-audubon-site`.
